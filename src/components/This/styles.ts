@@ -14,9 +14,9 @@ export const Icon = styled(FaReact)`
   align-items: center;
   justify-content: center;
 
-  -webkit-animation: spin 4s linear infinite;
-  -moz-animation: spin 4s linear infinite;
-  animation: spin 4s linear infinite;
+  -webkit-animation: spin 10s linear infinite;
+  -moz-animation: spin 10s linear infinite;
+  animation: spin 10s linear infinite;
 
   @-moz-keyframes spin {
     100% {
